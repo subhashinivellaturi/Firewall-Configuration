@@ -14,7 +14,7 @@ Configure and test a basic firewall using UFW on Kali Linux. Block Telnet (port 
 
 ## Steps Performed:
 
-###  1.In
+###  1.Installed UFW
 ``` bash
 sudo apt update
 sudo apt install ufw
